@@ -22,3 +22,6 @@ git clone https://github.com/LanoCodes/US-States-Game.git
 - Typing "Exit" allows you to quit the game.
 - A text file will be created in the project directory when then game is exited that will allow to see what states you need to work on.
 
+## Frameworks/Libraries/Modules
+- Pandas
+- Python's Turtle module
